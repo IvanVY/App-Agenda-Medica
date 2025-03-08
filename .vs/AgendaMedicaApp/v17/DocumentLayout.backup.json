@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\NewPc\\source\\repos\\AgendaMedicaApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1F44A076-E140-4A39-83B1-8D6E7FB20434}|AgendaMedicaApp\\AgendaMedicaApp.csproj|c:\\users\\newpc\\source\\repos\\agendamedicaapp\\agendamedicaapp\\firebase-adminsdk.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1F44A076-E140-4A39-83B1-8D6E7FB20434}|AgendaMedicaApp\\AgendaMedicaApp.csproj|solutionrelative:agendamedicaapp\\firebase-adminsdk.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1F44A076-E140-4A39-83B1-8D6E7FB20434}|AgendaMedicaApp\\AgendaMedicaApp.csproj|c:\\users\\newpc\\source\\repos\\agendamedicaapp\\agendamedicaapp\\utils\\firebaseconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1F44A076-E140-4A39-83B1-8D6E7FB20434}|AgendaMedicaApp\\AgendaMedicaApp.csproj|solutionrelative:agendamedicaapp\\utils\\firebaseconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -31,6 +35,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "firebase-adminsdk.json",
+              "DocumentMoniker": "C:\\Users\\NewPc\\source\\repos\\AgendaMedicaApp\\AgendaMedicaApp\\firebase-adminsdk.json",
+              "RelativeDocumentMoniker": "AgendaMedicaApp\\firebase-adminsdk.json",
+              "ToolTip": "C:\\Users\\NewPc\\source\\repos\\AgendaMedicaApp\\AgendaMedicaApp\\firebase-adminsdk.json",
+              "RelativeToolTip": "AgendaMedicaApp\\firebase-adminsdk.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-08T07:26:47.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "FirebaseConfig.cs",
               "DocumentMoniker": "C:\\Users\\NewPc\\source\\repos\\AgendaMedicaApp\\AgendaMedicaApp\\Utils\\FirebaseConfig.cs",
               "RelativeDocumentMoniker": "AgendaMedicaApp\\Utils\\FirebaseConfig.cs",
@@ -43,7 +60,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "FirebaseService.cs",
               "DocumentMoniker": "C:\\Users\\NewPc\\source\\repos\\AgendaMedicaApp\\AgendaMedicaApp\\Services\\FirebaseService.cs",
               "RelativeDocumentMoniker": "AgendaMedicaApp\\Services\\FirebaseService.cs",
